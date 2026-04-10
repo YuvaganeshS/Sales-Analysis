@@ -4,6 +4,7 @@
 
 This project analyzes end-to-end sales performance using a structured dataset of 62K orders, generating actionable insights across revenue, profit, customers, products, and regions. The goal is to help stakeholders make data-driven business decisions by identifying high-performing segments and optimization opportunities.
 
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOGM5ODZmOTItYTdjZi00YjY3LTk2MTUtMTQzMDM0NjY5OWZkIiwidCI6IjMyMzdmYTdlLTNkODctNGQwZS1hMDkzLWQ0NmFiYWQzNTllMiIsImMiOjF9&pageName=dceb65b93f42d95b0b3c
 ---
 
 📈 Key Metrics
